@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I'm Kemisola Flora
 
-### 🚀 Business Management Professional | Teacher | Aspiring Cybersecurity Analyst | Lifelong Learner
+### 🚀 Business Management Professional | Teacher | Cybersecurity Analyst Enthusiast | Lifelong Learner
 
 Welcome to my GitHub!  
 I am an Educator diversifying into **high-demand IT and cybersecurity skills**. I am currently building hands-on experience with security tools and platforms.
